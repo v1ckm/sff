@@ -31,7 +31,7 @@
 
     1. Enter campgrounds
     2. At crossroads, turn left
-        - On the right, there should be a large shield on a fence that says "Valhalla".
+        - On the right, there should be a large shield on a fence that says *Valhalla*.
         - **Do not** turn right since it's one-way traffic)
 
 ## General
