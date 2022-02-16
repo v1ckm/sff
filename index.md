@@ -3,6 +3,7 @@
 1. [Camping](#camping)
 2. [General](#general)
 3. [RV/Trailer](#rvtrailer)
+4. [Other](#other)
 
 Be sure to check the [main camping page](https://www.sherwoodforestfaire.com/camping).
 
@@ -59,3 +60,9 @@ Be sure to check the [main camping page](https://www.sherwoodforestfaire.com/cam
 * **Is there room for RVs and large trailers?**
 
     Yes, but contact Ray first. When room is not available, overflow is available via day parking. Please note though, the day parking is not connected to camping.
+
+## Other
+
+* **How can we get a question added to this page?**
+
+    Post it on the **Sherwood forest faire Camping events** Facebook page. I may or may not see it. Not sure if anybody will actually see this page.
