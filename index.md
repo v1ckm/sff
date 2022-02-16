@@ -4,6 +4,8 @@
 2. [General](#general)
 3. [RV/Trailer](#rvtrailer)
 
+Be sure to check the [main camping page](https://www.sherwoodforestfaire.com/camping).
+
 ## Camping
 
 * **What is the earliest time we can show up to the campgrounds?**
